@@ -1,4 +1,4 @@
-package
+package ru.alexli.misc.svg.utils
 {
 	public class XmlUtils
 	{
