@@ -15,9 +15,6 @@ package test
 	[SWF(backgroundColor="0xFFFFFF", width="800", height="600", frameRate="32")]
 	public class Main extends Sprite
 	{
-		[Embed(source="/../assets/svg.xml", mimeType="application/octet-stream")]
-		private var xmlClass:Class;
-
 		private var svgContainer:Sprite;
 
 		private var filerLoader:FileReference;
